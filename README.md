@@ -1,6 +1,6 @@
 # Projeto de Monitoramento de Ambientes com ESP8266-12E
 
-Este projeto tem como objetivo criar uma plataforma de monitoramento de ambientes utilizando o controlador ESP8266-12E, o sensor de temperatura e umidade DHT11, um LED e um sensor de movimento. Ele permite monitorar as variáveis de temperatura, umidade, lâmpada e detectar movimento em um ambiente.
+Este projeto tem como objetivo criar uma plataforma de monitoramento de ambientes utilizando o microcontrolador ESP8266-12E, o sensor de temperatura e umidade DHT11, um LED e um sensor de movimento. Ele permite monitorar as variáveis de temperatura, umidade, lâmpada e detectar movimento em um ambiente.
 
 ## Componentes Necessários
 - ESP8266-12E
