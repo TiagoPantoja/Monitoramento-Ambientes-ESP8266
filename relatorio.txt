@@ -18,4 +18,11 @@ Com o projeto configurado e o código carregado no ESP8266-12E, foi possível mo
 Durante os testes, verificamos que o sensor DHT11 forneceu leituras precisas de temperatura e umidade. O sensor de movimento detectou corretamente os movimentos no ambiente. Além disso, o LED foi controlado corretamente pelo ESP8266-12E, permitindo ligá-lo e desligá-lo remotamente.
 
 Conclusão:
-O projeto de Monitoramento de Ambientes com ESP8266-12E foi concluído com sucesso. Foi possível criar uma plataforma de monitoramento utilizando os componentes mencionados, permitindo a coleta de dados de temperatura, umidade, luminosidade e detecção de movimento em um ambiente. Através da comunicação MQTT, os dados foram enviados para um servidor, possibilitando o monitoramento
+O projeto de Monitoramento de Ambientes com ESP8266-12E foi concluído com sucesso. Foi possível criar uma plataforma de monitoramento utilizando os componentes mencionados, permitindo a coleta de dados de temperatura, umidade, luminosidade e detecção de movimento em um ambiente. Através da comunicação MQTT, os dados foram enviados para um servidor, possibilitando o monitoramento  utilizando os componentes mencionados, permitindo a coleta de dados de temperatura, umidade, luminosidade e detecção de movimento em um ambiente. Através da comunicação MQTT, os dados foram enviados para um servidor, possibilitando o monitoramento remoto. Os resultados dos testes demonstraram o bom funcionamento do sistema desenvolvido.
+
+Referências:
+LIMA, Matheus; ALVES, Francisco; JUCA, Sandro. Sistema IoT para Monitoramento de Temperatura e Umidade Ambientes e Acionamento Remoto de Cargas. In: ESCOLA REGIONAL DE INFORMÁTICA DO PIAUÍ (ERI-PI), 4. , 2018, Teresina. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2018 . p. 232 - 237.
+
+Arduino&Cia (2013). Sensor de umidade e temperatura dht11. Disponível em: https://www.arduinoecia.com.br/2013/05/sensor-de-umidade-e-temperaturadht11. html. Acesso em 26/05/2023.
+
+Alves, A. C. e Jucá, S. C. S. (2017). Wireless monitor-aplicativo web livre para receber e mostrar dados provenientes de equipamentos iot. Em Livro Anais - Artigos e Minicursos, volume 1, páginas 17–22. III Escola Regional de Informática do Piauí.
